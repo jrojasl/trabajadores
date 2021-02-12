@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Trabajadores</string>
+    <string name="tvTitulo">Calcula tu sueldo</string>
+    <string name="etNombres">Nombres</string>
+    <string name="etApellidos">Apellidos</string>
+    <string name="etFechaNacimiento">Fecha de nacimiento</string>
+    <string name="etFechaIngreso">Fecha de ingreso</string>
+    <string name="etSueldoBase">Sueldo Base</string>
+    <string name="etHorasExtras">horas Extras</string>
+    <string name="btnCalcular">Calcular</string>
+    <string name="btnFinalizar">Finalizar</string>
+</resources>
